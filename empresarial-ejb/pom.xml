@@ -4,12 +4,12 @@
     <parent>
     <artifactId>empresarial</artifactId>
     <groupId>com.acevedo</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
 
     <groupId>com.acevedo</groupId>
     <artifactId>empresarial-ejb</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>ejb</packaging>
 
     <name>empresarial-ejb</name>
