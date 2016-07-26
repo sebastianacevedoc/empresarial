@@ -28,7 +28,6 @@
         <url>https://github.com/sebastianacevedoc/empresarial.git</url>
         <connection>scm:git:git://github.com/sebastianacevedoc/empresarial.git</connection>
         <developerConnection>scm:git:git@github.com:sebastianacevedoc/empresarial.git</developerConnection>
-       
     </scm>
    
     <build>
