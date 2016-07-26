@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.acevedo</groupId>
     <artifactId>empresarial</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>empresarial</name>
     <modules>
@@ -28,7 +28,7 @@
         <url>https://github.com/sebastianacevedoc/empresarial.git</url>
         <connection>scm:git:git://github.com/sebastianacevedoc/empresarial.git</connection>
         <developerConnection>scm:git:git@github.com:sebastianacevedoc/empresarial.git</developerConnection>
-      <tag>empresarial-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
    
     <build>
